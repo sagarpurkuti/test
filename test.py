@@ -1,10 +1,7 @@
-a='Test git '
+print('hello world. This sagar working on git')
 
-print(a)
-print('hello world')
-
-
+a="sagar"
 if a=="Test git ":
-    print("This is test git")
+    print("This is test git"):
 else:
     print("False")
